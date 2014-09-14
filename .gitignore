@@ -6,6 +6,9 @@
 # Folders
 _obj
 _test
+pkg
+github.com
+
 
 # Architecture specific extensions/prefixes
 *.[568vq]
